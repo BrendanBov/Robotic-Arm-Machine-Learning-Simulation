@@ -1,0 +1,29 @@
+{
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.2+cpu"
+    },
+    "TrainingTest": {
+        "checkpoints": [
+            {
+                "steps": 83984,
+                "file_path": "results\\TrainingTest\\TrainingTest\\TrainingTest-83984.onnx",
+                "reward": 1.0,
+                "creation_time": 1713245238.3067565,
+                "auxillary_file_paths": [
+                    "results\\TrainingTest\\TrainingTest\\TrainingTest-83984.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 83984,
+            "file_path": "results\\TrainingTest\\TrainingTest.onnx",
+            "reward": 1.0,
+            "creation_time": 1713245238.3067565,
+            "auxillary_file_paths": [
+                "results\\TrainingTest\\TrainingTest\\TrainingTest-83984.pt"
+            ]
+        }
+    }
+}
